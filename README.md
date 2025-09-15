@@ -39,7 +39,7 @@ plt.imshow(ori_mask)
 <img src="imgs/ori_mask.png" width="200">
 
 ## Pretrained Model
-The model weight "EyeLearn_weights.72-0.0019.h5" trained using 10,000 samples from our larger private dataset can be downloaded via this [link](https://ophai.hms.harvard.edu/datasets/harvard-gd500/)
+The model weight "EyeLearn_weights.72-0.0019.h5" trained using 10,000 samples from our larger private dataset can be downloaded via this [link](https://drive.google.com/drive/folders/1-8NIRenXBy8sNxWUV8DMV6HNu2VX5H4u?usp=drive_link).
 
 
 ## Use the Model
